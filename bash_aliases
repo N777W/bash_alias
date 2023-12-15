@@ -1,2 +1,3 @@
+alias gh='history | grep '
 alias con='~/Desktop/ServerConnect.sh'
-alias gh='history|grep'
+alias ds='cd ~/Desktop'
