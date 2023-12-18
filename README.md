@@ -1,1 +1,1 @@
-# bash_alias
+# using alias for quicker commands

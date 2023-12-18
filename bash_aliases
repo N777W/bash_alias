@@ -12,14 +12,21 @@ alias c='clear'
 alias ls='ls --color=auto'
 alias vs='code'
 
-
 #Coding
 alias cr='cargo run'
 alias ci='cargo install'
 alias ni='npm install'
 alias nr='npm run'
+
 #start postgresql
-alias db='/usr/local/opt/postgresql@14/bin/postgres -D /usr/local/var/postgresql@14'
+alias db='brew services start postgresql'
+alias dbs='brew services stop postgresql'
 
 #nvim 
 alias vi='nvim'
+
+#brew
+alias bi='brew install'
+alias bu='brew uninstall'
+alias bs='brew search'
+alias bl='brew list'
