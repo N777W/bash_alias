@@ -30,3 +30,13 @@ alias bi='brew install'
 alias bu='brew uninstall'
 alias bs='brew search'
 alias bl='brew list'
+alias bup='brew upgrade'
+
+#VPN
+alias v='openvpn'
+
+#Git 
+alias gp='git pull'
+alias gf='git fetch'
+alias gpu='git push'
+alias gc='git commit'
